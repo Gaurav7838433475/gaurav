@@ -12,7 +12,7 @@ public class FibonacciSeries {
 			fib3=fib1+fib2;
 			fib1=fib2;
 			fib2=fib3;
-			System.out.println(fib3);
+			System.out.print(fib3+" ");
 		}
 
 	}

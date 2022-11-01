@@ -4,7 +4,7 @@ public class ReverseTheWords {
 
 	public static void main(String[] args) {
 		
-	//	String st="I love Bangalore";//Bangalore love I
+		//String st="I love Bangalore";//Bangalore love I
 		/*String []s=st.split(" ");
 		for(int i=s.length-1;i>=0;i--)
 		{
@@ -14,7 +14,7 @@ public class ReverseTheWords {
 		}*/
 		
 		/*String rev="";
-		for(int i=0;i<st.length();i++)
+		for(int i=st.length()-1;i>=0;i--)
 		{
 			rev=rev+st.charAt(i);
 		}

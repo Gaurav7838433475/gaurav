@@ -11,7 +11,7 @@ public class StringMethods {
 		//char[]s=st.toCharArray();
 		//System.out.println(s.length);
 		
-		String s="welcome";
+	/*	String s="welcome";
 		System.out.println(s.charAt(1));
 		
 		String s1="welcome";
@@ -30,13 +30,13 @@ public class StringMethods {
 		System.out.println(joined);
 		
 		String ss="welcome";
-		System.out.println(s.contains("lc"));
+		System.out.println(ss.contains("lc"));
 		
 		String ss1="welcome";
-		System.out.println(s.startsWith("we"));
+		System.out.println(ss1.startsWith("we"));
 		
 		String ss2="welcome";
-		System.out.println(s.endsWith("me"));
+		System.out.println(ss2.endsWith("me"));
 		
 		String ss3="welcome";
 		String ss4="";
@@ -53,7 +53,7 @@ public class StringMethods {
 		System.out.println(b.substring(0,3));
 		
 		String a1="hi hello welcome";
-		String [] b1=s1.split("");
+		String [] b1=a1.split("");
 		for(int i=0;i<b1.length;i++)
 		{
 			System.out.println(b1[i]);
@@ -61,7 +61,7 @@ public class StringMethods {
 		
 		String st="hi";
 		String st1="hi";
-		System.out.println(st.equals(st1));
+		System.out.println(st.equals(st1));*/
 		
 		String d="hi hello welcome";
 		System.out.println(d.replace(" ", ""));

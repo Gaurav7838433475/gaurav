@@ -22,9 +22,9 @@ public class RemoveTheDuplicateWords {
 				{
 					count++;
 				}
-				System.out.print(s[i]);
+				//System.out.print(s[i]);
 			}
-			System.out.println(stri+" =is repeating "+count+" time");
+			System.out.print(stri+" ");//+" =is repeating "+count+" time");
 		}
 	}
 

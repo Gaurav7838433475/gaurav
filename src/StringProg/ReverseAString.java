@@ -4,9 +4,9 @@ public class ReverseAString {
 
 	public static void main(String[] args) {
 
-		/*String s="welcome";
+		//String s="welcome";
 		
-		for(int i=s.length()-1;i>=0;i--)
+		/*for(int i=s.length()-1;i>=0;i--)
 		{
 			System.out.print(s.charAt(i));
 		}*/
@@ -16,7 +16,7 @@ public class ReverseAString {
 		for(int i=s.length-1;i>=0;i--)
 		{
 			System.out.print(s[i]);
-		}/*
+		}*/
 
 		/*String s="welcome";
 		String rev="";
@@ -47,7 +47,7 @@ public class ReverseAString {
 		StringBuilder sb=new StringBuilder(s);
 		System.out.println(sb.reverse());*/
 		
-		/*String s="malayalam";
+		String s="malayalam";
 		String rev="";
 		for(int i=s.length()-1;i>=0;i--)
 		{
@@ -60,7 +60,7 @@ public class ReverseAString {
 		else
 		{
 			System.out.println("is not palindrome");
-		}*/
+		}
 	}
 
 }

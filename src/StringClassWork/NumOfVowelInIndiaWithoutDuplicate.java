@@ -4,8 +4,9 @@ import java.util.LinkedHashSet;
 
 public class NumOfVowelInIndiaWithoutDuplicate {
 
-	public static void main(String[] args) {
-		
+	public static void main(String[] args)
+	
+	{
 		String str="indiaaaaaaaaaaaaaaauoo";
 		int count=0;
 		char[] ch = str.toCharArray();

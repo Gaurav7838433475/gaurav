@@ -6,7 +6,7 @@ public class BubleSort {
 
 	public static void main(String[] args) {
 		
-		int a[]= {4,2,1,5,3};
+		int a[]= {4,2,1,5,3,4,7};
 		System.out.println("Array before sorting:"+Arrays.toString(a));
 		int n=a.length;
 		

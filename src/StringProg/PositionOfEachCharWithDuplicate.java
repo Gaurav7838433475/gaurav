@@ -7,7 +7,7 @@ public class PositionOfEachCharWithDuplicate {
 		String s="tester";
 		for(int i=0;i<s.length();i++)
 		{
-			System.out.println(s.charAt(i)+" "+(i+1));
+			System.out.println(s.charAt(i)+" 's position is "+(i+1));
 		}
 	}
 
